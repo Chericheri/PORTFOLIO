@@ -1,0 +1,17 @@
+# --- Portfolio-specific ignores ---
+# OS / Editor droppings
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs & temp files
+*.log
+*.tmp
+*.temp
+
+# Optional lock files (only if you use tools like Prettier, etc.)
+# package-lock.json
+# yarn.lock
