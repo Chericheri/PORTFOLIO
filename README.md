@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 This repository contains my **solo-built**, **HTML + CSS only** portfolio website.  
-It was created in 4 days (30 Jul – 3 Aug 2025) for the “Deskie Hackathon” and showcases my front-end craftsmanship without any external libraries or frameworks.
+It was created in 4 days (30 Jul – 3 Aug 2025) for the “Portfolio Building Hackathon” and showcases my front-end craftsmanship without any external libraries or frameworks.
 
 ---
 
