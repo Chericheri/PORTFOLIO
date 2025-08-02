@@ -62,7 +62,7 @@ portfolio/
 ---
 
 ## 📸 Screenshots
-![Desktop](https://link-to-screenshot-desktop.png)  
+![Desktop](![alt text](image.png))  
 *Desktop view — 1440 px*
 
 ![Mobile](https://link-to-screenshot-mobile.png)  
@@ -100,5 +100,5 @@ This is a personal showcase; issues or suggestions are still welcome!
 ---
 
 ## 📄 License
-MIT © 2025 Cheruto charity
+ © 2025 Cheruto charity
 ```
