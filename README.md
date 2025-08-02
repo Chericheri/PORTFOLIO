@@ -13,7 +13,7 @@ It was created in 4 days (30 Jul – 3 Aug 2025) for the “Portfolio Building H
 ## 🚀 Quick Start
 1. **Clone or download**
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/Chericheri/portfolio.git
    cd portfolio
    ```
 2. **Open** `index.html` in any modern browser.  
