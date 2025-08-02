@@ -62,10 +62,10 @@ portfolio/
 ---
 
 ## 📸 Screenshots
-![Desktop](![alt text](image.png))  
+!Desktop(![alt text](image.png))  
 *Desktop view — 1440 px*
 
-![Mobile](https://link-to-screenshot-mobile.png)  
+!Mobile(![alt text](image-1.png))  
 *Mobile view — 375 px*
 
 ---
