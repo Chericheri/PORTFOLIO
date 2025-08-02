@@ -53,7 +53,7 @@ portfolio/
 ## 🎨 Palette & Typography
 | Token | Value |
 |---|---|
-| Primary | `#6C63FF` |
+| Primary | `#6d0505` |
 | Accent  | `#FF6584` |
 | Dark    | `#222222` |
 | Light   | `#F5F5F5` |
